@@ -2,8 +2,8 @@
   "name": "hellocoin",
   "version": "1.0.0",
   "description": "a local blockchain for educational purposes",
-  "main": "./dist/main.js",
-  "module": "./dist/main.mjs",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
   "repository": {
     "type": "git",
