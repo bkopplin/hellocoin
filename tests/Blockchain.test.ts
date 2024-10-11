@@ -23,7 +23,7 @@ describe("Blockchain", () => {
 
     frodoWalletAddress = frodoKeyPair.getPublic("hex");
     bilboWalletAddress = bilboKeyPair.getPublic("hex");
-    gandalfWalletAddress = gandalfKeyPair.getPublic("hex");
+    gandalfWalletAddress = gandalfKeyPair.getPublic("hex"); 
 
     newcoin = new Blockchain();
 
