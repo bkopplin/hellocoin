@@ -144,3 +144,6 @@ dist
 # Build
 build
 
+# VS Code
+.vscode
+
