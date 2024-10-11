@@ -25,7 +25,7 @@
   },
   "scripts": {
     "test": "npx jest tests/*",
-    "compile:watch": "npx tsc --watch"
+    "build": "tsup"
   },
   "author": "bkopplin"
 }
